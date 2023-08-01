@@ -5,6 +5,7 @@ This repository contains a plethora of bad coding practices, often introduced by
 * Is the code modular?
 * Is the code readable?
 * Is the code maintainable?
+* Is the code optimal?
 * What bugs can you spot?
 * What potential bugs can you spot?
 
